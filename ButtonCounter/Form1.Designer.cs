@@ -61,9 +61,9 @@
             this.lbcounter.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.lbcounter.Location = new System.Drawing.Point(163, 64);
             this.lbcounter.Name = "lbcounter";
-            this.lbcounter.Size = new System.Drawing.Size(82, 24);
+            this.lbcounter.Size = new System.Drawing.Size(97, 24);
             this.lbcounter.TabIndex = 2;
-            this.lbcounter.Text = "Counter:";
+            this.lbcounter.Text = "Counter: 0";
             // 
             // Form1
             // 
